@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "85377029508",
+    "project_id": "login-b3ba6",
+    "storage_bucket": "login-b3ba6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85377029508:android:faa6bd513b5e6fc008b9d1",
+        "android_client_info": {
+          "package_name": "com.example.scent_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85377029508-vhujum1h15tmkduitnncu2hl67kj9f51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJGKSvR7iTlHDYmFIgCb7qMcvkkv83cY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85377029508-vhujum1h15tmkduitnncu2hl67kj9f51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
